@@ -1,0 +1,7 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern=".latest-yourls-release" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
